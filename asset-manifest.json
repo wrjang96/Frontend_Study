@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Frontend_Study/tree/main/React_Study/movie_app/static/css/main.25561af0.chunk.css",
+    "main.js": "/Frontend_Study/tree/main/React_Study/movie_app/static/js/main.3ca16b8c.chunk.js",
+    "main.js.map": "/Frontend_Study/tree/main/React_Study/movie_app/static/js/main.3ca16b8c.chunk.js.map",
+    "runtime-main.js": "/Frontend_Study/tree/main/React_Study/movie_app/static/js/runtime-main.fe6ab096.js",
+    "runtime-main.js.map": "/Frontend_Study/tree/main/React_Study/movie_app/static/js/runtime-main.fe6ab096.js.map",
+    "static/js/2.ef9772a9.chunk.js": "/Frontend_Study/tree/main/React_Study/movie_app/static/js/2.ef9772a9.chunk.js",
+    "static/js/2.ef9772a9.chunk.js.map": "/Frontend_Study/tree/main/React_Study/movie_app/static/js/2.ef9772a9.chunk.js.map",
+    "static/js/3.5c949bcd.chunk.js": "/Frontend_Study/tree/main/React_Study/movie_app/static/js/3.5c949bcd.chunk.js",
+    "static/js/3.5c949bcd.chunk.js.map": "/Frontend_Study/tree/main/React_Study/movie_app/static/js/3.5c949bcd.chunk.js.map",
+    "index.html": "/Frontend_Study/tree/main/React_Study/movie_app/index.html",
+    "static/css/main.25561af0.chunk.css.map": "/Frontend_Study/tree/main/React_Study/movie_app/static/css/main.25561af0.chunk.css.map",
+    "static/js/2.ef9772a9.chunk.js.LICENSE.txt": "/Frontend_Study/tree/main/React_Study/movie_app/static/js/2.ef9772a9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe6ab096.js",
+    "static/js/2.ef9772a9.chunk.js",
+    "static/css/main.25561af0.chunk.css",
+    "static/js/main.3ca16b8c.chunk.js"
+  ]
+}
